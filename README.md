@@ -1,2 +1,2 @@
-# RBC
-A sustained turbulence, i.e. the 2D turbulent RB convection, is numerically solved by means of the "Clean Numerical Simulation" (CNS).
+# Rayleigh-B{\'e}nard (RB) convection
+A sustained turbulence, i.e. the two-dimensional (2D) turbulent Rayleigh-B{\'e}nard (RB) convection, is numerically solved by means of the "Clean Numerical Simulation" (CNS).
